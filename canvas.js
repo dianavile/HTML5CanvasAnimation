@@ -5,7 +5,7 @@ window.onload = function () {
   let object = document.querySelector("canvas");
   object.width = window.innerWidth;
   object.height = window.innerHeight;
-  let ctx = obj.getContext("2d");
+  let ctx = object.getContext("2d");
 
   //define mouse position on x and y scale
   let mouse = {
