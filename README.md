@@ -2,7 +2,7 @@
 
 Created an HTML5 Canvas with circleArray animation for ZeroToMastery- HacktoberFest
 
-[!HTML5CanvasAnimation](https://github.com/dianavile/HTML5CanvasAnimation/blob/main/HTML5CanvasAnimation.PNG)
+![HTML5CanvasAnimation](https://github.com/dianavile/HTML5CanvasAnimation/blob/main/HTML5CanvasAnimation.PNG)
 
 ## RESOURCES
 
